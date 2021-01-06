@@ -1,0 +1,91 @@
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+h1{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    color: gray;
+    margin:0;
+    
+}
+#purple{
+    color: purple;
+    margin-top: 9.5% ;
+}
+.start{
+    float: left;
+    margin-left: 7.5%;
+    margin-top: 10%;
+    height: 300px;
+    width:300px;
+    
+    
+  
+    
+
+}
+.start p{
+    margin: 0;
+
+}
+
+.star-II img{
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+    
+   
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple,rgb(204, 0, 255));
+    color: gray;
+    border-radius: 8px;
+    margin-top: 25%
+    
+
+}
+.section-II{
+    height: 700px;
+    width:800px;
+
+  
+}
+.section-II img{
+    height: 250px;
+    width: 250px;
+    margin-bottom: 65%;
+    margin-right: 30%;
+    padding right: 20%;
+   
+    float: left;
+    
+   
+}
+.star-I{
+    height: 500px;
+    width:900px;
+    margin-left: 25px;
+    
+  
+    
+   
+    
+
+    
+}
+#too{
+    color:black
+}
+h1{
+
+}
+.work{
+    height: 150px;
+    width: 150px;
+    
+}
+
